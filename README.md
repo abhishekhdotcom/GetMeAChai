@@ -194,27 +194,27 @@ The app integrates with Razorpay to process payments. Users can register, log in
 ### Home Page
 
 <figure>
-  <img src="public/screenshots/homePage1.webp" alt="Home Page" />
+  <img src="public/homePage1.webp" alt="Home Page" />
   <figcaption>Home Page: A welcoming landing page with a call-to-action.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/homePage2.webp" alt="Home Page" />
+  <img src="public/homePage2.webp" alt="Home Page" />
   <figcaption>Home Page: A welcoming landing page with a call-to-action.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/homePage3.webp" alt="Home Page" />
+  <img src="public/homePage3.webp" alt="Home Page" />
   <figcaption>Home Page: A welcoming landing page with a call-to-action.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/homePage4.webp" alt="Home Page" />
+  <img src="public/homePage4.webp" alt="Home Page" />
   <figcaption>Home Page: navbar with dropdown on hover.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/homePage5.webp" alt="Home Page" />
+  <img src="public/homePage5.webp" alt="Home Page" />
   <figcaption>Home Page with watsApp features.</figcaption>
 </figure>
 
@@ -222,113 +222,113 @@ The app integrates with Razorpay to process payments. Users can register, log in
 ### Login Page
 
 <figure>
-  <img src="public/screenshots/loginPage1.webp" alt="login Page" />
+  <img src="public/loginPage1.webp" alt="login Page" />
   <figcaption>Login Page: Users sign up using GitHub or Google authentication.</figcaption>
 </figure>
 
 ### Login With Google OAuth2
 
 <figure>
-  <img src="public/screenshots/loginWithGoogle.webp" alt="login Page" />
+  <img src="public/loginWithGoogle.webp" alt="login Page" />
   <figcaption>Login with Google OAuth2: Users sign up using Google authentication</figcaption>
 </figure>
 
 ### Login With GitHub OAuth2
 
 <figure>
-  <img src="public/screenshots/loginWithGithub.webp" alt="login Page" />
+  <img src="public/loginWithGithub.webp" alt="login Page" />
     <figcaption>Login with GitHub OAuth2: Users sign up using GitHub authentication</figcaption>
 </figure>
 
 ### Dashboard Page
 
 <figure>
-  <img src="public/screenshots/dashBoardPage1.webp" alt="about Page" />
+  <img src="public/dashBoardPage1.webp" alt="about Page" />
   <figcaption>Dashboard: Users can manage their Razorpay credentials for accepting payments.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/dashBoardPage2.webp" alt="about Page" />
+  <img src="public/dashBoardPage2.webp" alt="about Page" />
   <figcaption>Dashboard: Users can change UserName at least 4 characters long.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/dashBoardPage3.webp" alt="about Page" />
+  <img src="public/dashBoardPage3.webp" alt="about Page" />
   <figcaption>Dashboard: UserName already taken by other user you cant take it own.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/dashBoardPage4.webp" alt="about Page" />
+  <img src="public/dashBoardPage4.webp" alt="about Page" />
   <figcaption>Dashboard: Users can manage own Profile management change profilePic, coverPic and set rzpId & RzpSecret .</figcaption>
 </figure>
 
 ### Admin Page
 
 <figure>
-  <img src="public/screenshots/adminPage1.webp" alt="about Page" />
+  <img src="public/adminPage1.webp" alt="about Page" />
   <figcaption>Admin Page: This is Admin page when user login successfully green tic show otherwise not .</figcaption>
 </figure>
 
 ### About Page
 
 <figure>
-  <img src="public/screenshots/aboutPage1.webp" alt="about Page" />
+  <img src="public/aboutPage1.webp" alt="about Page" />
   <figcaption>About page: This is about page read about getMeAChai Crowdfunding webApp.</figcaption>
 </figure>
 
 ### Contact Page
 
 <figure>
-  <img src="public/screenshots/contactPage1.webp" alt="contact Page" />
+  <img src="public/contactPage1.webp" alt="contact Page" />
   <figcaption>Contact Page: user ablt for contact developer when login otherwise not.</figcaption>
 </figure>
 
 <figure>
-  <img src="public/screenshots/contactPage2.webp" alt="contact Page" />
+  <img src="public/contactPage2.webp" alt="contact Page" />
   <figcaption>Dashboard: contact form submit successfully.</figcaption>
 </figure>
 
 ### Find user Page
 
 <figure>
-  <img src="public/screenshots/userSearch1.webp" alt="find user Page" />
+  <img src="public/userSearch1.webp" alt="find user Page" />
   <figcaption>Find User: User can find users by userName.</figcaption>
 </figure>   
 
 <figure>
-  <img src="public/screenshots/userSearch2.webp" alt="find user Page" />
+  <img src="public/userSearch2.webp" alt="find user Page" />
   <figcaption>Find User: you can find user when user available .</figcaption>
 </figure>   
 
 <figure>
-  <img src="public/screenshots/userSearch3.webp" alt="find user Page" />
+  <img src="public/userSearch3.webp" alt="find user Page" />
   <figcaption>Find User: you can find user when user available in database.</figcaption>
 </figure>   
 
 <figure>
-  <img src="public/screenshots/userSearch4.webp" alt="find user Page" />
+  <img src="public/userSearch4.webp" alt="find user Page" />
   <figcaption>Find User: you can find user when user not available in database show not user found .</figcaption>
 </figure>   
 
 ### user Page
 
 <figure>
-  <img src="public/screenshots/userPage1.webp" alt="user Page" />
+  <img src="public/userPage1.webp" alt="user Page" />
   <figcaption>user Page: when user found and you click you redirect user profile under 3 second.</figcaption>
 </figure> 
 
 <figure>
-  <img src="public/screenshots/userPage4.webp" alt="user Page" />
+  <img src="public/userPage4.webp" alt="user Page" />
   <figcaption>user Page: when user try to donation and user not able to accept payment show message bcz user not set razowPay Id & Secret in own profile</figcaption>
 </figure> 
 
 <figure>
-  <img src="public/screenshots/userPage2.webp" alt="user Page" />
+  <img src="public/userPage2.webp" alt="user Page" />
   <figcaption>user Page: this is another user from your searching</figcaption>
 </figure> 
 
 <figure>
-  <img src="public/screenshots/userPage3.webp" alt="user Page" />
+  <img src="public/userPage3.webp" alt="user Page" />
   <figcaption>user Page: when user login if user donate money other user otherwise you cant donate.</figcaption>
 </figure> 
 
@@ -336,22 +336,22 @@ The app integrates with Razorpay to process payments. Users can register, log in
 ### RazorPay Payment
 
 <figure>
-  <img src="public/screenshots/rzp1.webp" alt="Rzp Pay" />
+  <img src="public/rzp1.webp" alt="Rzp Pay" />
   <figcaption>RazorPay: Rzp payment process starting when user click pay btn.</figcaption>
 </figure> 
 
 <figure>
-  <img src="public/screenshots/rzp2.webp" alt="Rzp Pay" />
+  <img src="public/rzp2.webp" alt="Rzp Pay" />
   <figcaption>RazorPay: user select payment method then pay and you want to cancled it you can do it.</figcaption>
 </figure> 
 
 <figure>
-  <img src="public/screenshots/rzp3.webp" alt="Rzp Pay" />
+  <img src="public/rzp3.webp" alt="Rzp Pay" />
   <figcaption>RazorPay:Payment successfull after 5 second page redirect payment success page.</figcaption>
 </figure> 
 
 <figure>
-  <img src="public/screenshots/rzp4.webp" alt="Rzp Pay" />
+  <img src="public/rzp4.webp" alt="Rzp Pay" />
   <figcaption>RazorPay: payment done success show notification.</figcaption>
 </figure> 
 
@@ -359,14 +359,14 @@ The app integrates with Razorpay to process payments. Users can register, log in
 ### NotFound Payment
 
 <figure>
-  <img src="public/screenshots/notFoundPage.webp" alt="notFound Page" />
+  <img src="public/notFoundPage.webp" alt="notFound Page" />
   <figcaption>404 NotFound Page: when user try to go unlisted url's show 404 Page not found page.</figcaption>
 </figure> 
 
 ### SignOut user
 
 <figure>
-  <img src="public/screenshots/signOutUser.webp" alt="signOutUser Page" />
+  <img src="public/signOutUser.webp" alt="signOutUser Page" />
   <figcaption>SignOutUser: User signOut onClick signOut btn after signOut userName green tick disable for clearing uuser signOut successfully.</figcaption>
 </figure> 
 
