@@ -243,7 +243,7 @@ The app integrates with Razorpay to process payments. Users can register, log in
 ### Dashboard Page
 
 <figure>
-  <img src="public/screenshots/dashBoardpage1.webp" alt="about Page" />
+  <img src="public/screenshots/dashBoardPage1.webp" alt="about Page" />
   <figcaption>Dashboard: Users can manage their Razorpay credentials for accepting payments.</figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ The app integrates with Razorpay to process payments. Users can register, log in
 </figure>
 
 <figure>
-  <img src="public/screenshots/dashBoardpage3.webp" alt="about Page" />
+  <img src="public/screenshots/dashBoardPage3.webp" alt="about Page" />
   <figcaption>Dashboard: UserName already taken by other user you cant take it own.</figcaption>
 </figure>
 
@@ -366,7 +366,7 @@ The app integrates with Razorpay to process payments. Users can register, log in
 ### SignOut user
 
 <figure>
-  <img src="public/screenshots/signOutuser.webp" alt="signOutUser Page" />
+  <img src="public/screenshots/signOutUser.webp" alt="signOutUser Page" />
   <figcaption>SignOutUser: User signOut onClick signOut btn after signOut userName green tick disable for clearing uuser signOut successfully.</figcaption>
 </figure> 
 
