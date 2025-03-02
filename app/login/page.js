@@ -242,7 +242,7 @@ export default function Login () {
                             <div className='flex gap-1 z-10'>
                                 <h2 className="mb-3 text-3xl font-bold text-white z-10">GetMeAChai</h2>
                                 <Image
-                                    src="https://media.tenor.com/Touoo4ihBp4AAAAi/coffee.gif"
+                                    src="/coffee.gif"
                                     width={100}
                                     height={100}
                                     alt="Animated teacup gif representing chai"
@@ -251,7 +251,7 @@ export default function Login () {
                             </div>
                             <p className="mb-4 text-white z-10">WELCOME TO GetMeAChai</p>
                             <Image
-                                src="https://images.unsplash.com/photo-1555447014-7ead71574544?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRlYSUyMGN1cHxlbnwwfHwwfHx8Mg%3D%3D"
+                                src="/cupGlass.Avif"
                                 alt="GetMeAChai Logo"
                                 width={1000}
                                 height={1000}
