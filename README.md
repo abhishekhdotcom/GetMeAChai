@@ -141,7 +141,7 @@ Ensure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/GetMeAChai.git
+git clone https://github.com/abhishekh1516techboy/GetMeAChai.git
 cd GetMeAChai
 ```
 
